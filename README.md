@@ -1,5 +1,6 @@
 # AUTOMATIC-AMBULANCE-DETECTION-SYSTEM-FOR-EMERGENCY-VEHICLE-PRIORITIZATION-USING-IMAGE-PROCESSING
-      This project develops an advanced vehicular traffic monitoring system using image processing in urban areas. By automating vehicle detection and tracking through cutting-edge computer vision techniques, the system provides accurate real-time vehicle counts. Integration of machine learning enhances adaptability and accuracy over time, recognizing diverse vehicle types and adjusting to changing conditions. The outcomes offer a cost-effective and scalable solution for traffic monitoring in smart city initiatives, simplifying data collection and optimizing urban mobility and city planning processes.
+      
+This project develops an advanced vehicular traffic monitoring system using image processing in urban areas. By automating vehicle detection and tracking through cutting-edge computer vision techniques, the system provides accurate real-time vehicle counts. Integration of machine learning enhances adaptability and accuracy over time, recognizing diverse vehicle types and adjusting to changing conditions. The outcomes offer a cost-effective and scalable solution for traffic monitoring in smart city initiatives, simplifying data collection and optimizing urban mobility and city planning processes.
 
 # FEATURES USED:
 1. Real-time ambulance detection
