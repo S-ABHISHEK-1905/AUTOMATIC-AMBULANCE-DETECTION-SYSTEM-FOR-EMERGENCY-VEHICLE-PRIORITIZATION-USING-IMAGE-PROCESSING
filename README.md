@@ -4,7 +4,7 @@ This project focuses on developing an automatic ambulance detection system using
 
 # FEATURES USED:
 1. Real-time ambulance detection
-2. Traffic signal control (IN ADVANCE)
+2. Traffic signal control 
 
 # REQUIREMENTS :
 1. PYTHON
