@@ -1,10 +1,10 @@
 # AUTOMATIC-AMBULANCE-DETECTION-SYSTEM-FOR-EMERGENCY-VEHICLE-PRIORITIZATION-USING-IMAGE-PROCESSING
       
-This project develops an advanced vehicular traffic monitoring system using image processing in urban areas. By automating vehicle detection and tracking through cutting-edge computer vision techniques, the system provides accurate real-time vehicle counts. Integration of machine learning enhances adaptability and accuracy over time, recognizing diverse vehicle types and adjusting to changing conditions. The outcomes offer a cost-effective and scalable solution for traffic monitoring in smart city initiatives, simplifying data collection and optimizing urban mobility and city planning processes.
+This project focuses on developing an automatic ambulance detection system using YOLO (You Only Look Once) image processing to prioritize emergency vehicles in traffic. The system detects ambulances in real-time through camera feeds, enabling traffic lights to give them the right-of-way immediately. By automating the detection and prioritization process, it reduces delays for emergency vehicles, ensuring faster response times. The system's integration into existing traffic management infrastructure enhances overall traffic flow and safety. This innovative approach contributes to more efficient urban traffic management and better emergency services.
 
 # FEATURES USED:
 1. Real-time ambulance detection
-2. Traffic signal control
+2. Traffic signal control (IN ADVANCE)
 
 # REQUIREMENTS :
 1. PYTHON
